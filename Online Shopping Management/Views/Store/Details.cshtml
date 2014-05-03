@@ -1,0 +1,32 @@
+﻿@model Online_Shopping_Management.Models.Product
+@{
+    ViewBag.Title = "Products - " + Model.ProductName;
+}
+
+<h2>@Model.ProductName</h2>
+
+<p>
+    
+</p>
+
+<div id="product-details">
+    <p>
+        <em>Category: </em>
+        @Model.Category.Name
+    </p>
+    <p>
+        <em>Sub Category: </em>
+        @Model.SubCategory.SubCategoryName
+    </p>
+    <p>
+        <em>Model or Brand or Company: </em>
+        @Model.Model.ModelName
+    </p>
+    <p>
+        <em>Price: </em>
+        @String.Format("{0:F}", Model.ListPrice)
+    </p>
+    <p class="ui-button">
+        @Html.ActionLink("Add To Cart", "AddToCart", "ShoppingCart", new {id = Model.ProductId}, "")
+    </p>
+</div>

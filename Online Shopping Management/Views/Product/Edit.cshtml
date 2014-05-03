@@ -1,0 +1,126 @@
+﻿@model Online_Shopping_Management.Models.Product
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Product</legend>
+
+        @Html.HiddenFor(model => model.ProductId)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CategoryId, "Category")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("CategoryId", String.Empty)
+            @Html.ValidationMessageFor(model => model.CategoryId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SubCategoryId, "SubCategory")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("SubCategoryId", String.Empty)
+            @Html.ValidationMessageFor(model => model.SubCategoryId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ModelId, "Model")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("ModelId", String.Empty)
+            @Html.ValidationMessageFor(model => model.ModelId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ProductName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ProductName)
+            @Html.ValidationMessageFor(model => model.ProductName)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Number)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Number)
+            @Html.ValidationMessageFor(model => model.Number)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Color)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Color)
+            @Html.ValidationMessageFor(model => model.Color)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.StandardCost)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.StandardCost)
+            @Html.ValidationMessageFor(model => model.StandardCost)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ListPrice)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ListPrice)
+            @Html.ValidationMessageFor(model => model.ListPrice)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Size)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Size)
+            @Html.ValidationMessageFor(model => model.Size)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Weight)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Weight)
+            @Html.ValidationMessageFor(model => model.Weight)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ProductionDate)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ProductionDate)
+            @Html.ValidationMessageFor(model => model.ProductionDate)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ExperiedDate)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ExperiedDate)
+            @Html.ValidationMessageFor(model => model.ExperiedDate)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

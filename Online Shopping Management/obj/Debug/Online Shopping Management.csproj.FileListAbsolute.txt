@@ -1,0 +1,258 @@
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\obj\Debug\Online Shopping Management.csprojResolveAssemblyReference.cache
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Online Shopping Management.dll.config
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Online Shopping Management.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Online Shopping Management.pdb
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Antlr3.Runtime.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.AspNet.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.Core.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OAuth.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OpenId.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\EntityFramework.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Microsoft.Data.Edm.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Microsoft.Data.OData.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Microsoft.Web.Infrastructure.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Newtonsoft.Json.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Net.Http.Formatting.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Spatial.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Helpers.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Http.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Http.OData.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Http.WebHost.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Mvc.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Optimization.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Razor.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.WebPages.Deployment.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.WebPages.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.WebPages.Razor.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\WebGrease.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\WebMatrix.Data.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\WebMatrix.WebData.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\EntityFramework.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Newtonsoft.Json.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Net.Http.Formatting.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Helpers.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Http.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Http.WebHost.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Mvc.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Razor.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.WebPages.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.WebPages.Deployment.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.WebPages.Razor.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\WebMatrix.Data.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\WebMatrix.WebData.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.AspNet.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.Core.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OAuth.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OpenId.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Web.Http.OData.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Microsoft.Data.Edm.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\Microsoft.Data.OData.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\System.Spatial.xml
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\de\Microsoft.Data.OData.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\es\Microsoft.Data.OData.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\it\Microsoft.Data.OData.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\de\System.Spatial.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\es\System.Spatial.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\fr\System.Spatial.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\it\System.Spatial.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\ja\System.Spatial.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\ko\System.Spatial.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\ru\System.Spatial.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\zh-Hans\System.Spatial.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\bin\zh-Hant\System.Spatial.resources.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\obj\Debug\Online Shopping Management.dll
+F:\Presentation\Final Project\Online Shopping Management\Online Shopping Management\obj\Debug\Online Shopping Management.pdb
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Online Shopping Management.dll.config
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Online Shopping Management.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Online Shopping Management.pdb
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Antlr3.Runtime.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.AspNet.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.Core.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OAuth.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OpenId.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\EntityFramework.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Microsoft.Data.Edm.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Microsoft.Data.OData.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Microsoft.Web.Infrastructure.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Newtonsoft.Json.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Net.Http.Formatting.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Spatial.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Helpers.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Http.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Http.OData.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Http.WebHost.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Mvc.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Optimization.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Razor.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.WebPages.Deployment.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.WebPages.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.WebPages.Razor.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\WebGrease.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\WebMatrix.Data.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\WebMatrix.WebData.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\EntityFramework.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Newtonsoft.Json.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Net.Http.Formatting.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Helpers.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Http.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Http.WebHost.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Mvc.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Razor.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.WebPages.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.WebPages.Deployment.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.WebPages.Razor.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\WebMatrix.Data.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\WebMatrix.WebData.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.AspNet.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.Core.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OAuth.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OpenId.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Web.Http.OData.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Microsoft.Data.Edm.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\Microsoft.Data.OData.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\System.Spatial.xml
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\de\Microsoft.Data.OData.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\es\Microsoft.Data.OData.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\it\Microsoft.Data.OData.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\de\System.Spatial.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\es\System.Spatial.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\fr\System.Spatial.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\it\System.Spatial.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\ja\System.Spatial.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\ko\System.Spatial.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\ru\System.Spatial.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\zh-Hans\System.Spatial.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\bin\zh-Hant\System.Spatial.resources.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\obj\Debug\Online Shopping Management.dll
+F:\Presentation\Online Shopping Management\Online Shopping Management\obj\Debug\Online Shopping Management.pdb
+F:\Presentation\Online Shopping Management\Online Shopping Management\obj\Debug\Online Shopping Management.csprojResolveAssemblyReference.cache
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Online Shopping Management.dll.config
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Online Shopping Management.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Online Shopping Management.pdb
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Antlr3.Runtime.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\DotNetOpenAuth.Core.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\EntityFramework.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Microsoft.Data.Edm.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Microsoft.Data.OData.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Newtonsoft.Json.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Net.Http.Formatting.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Spatial.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Helpers.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Http.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Http.OData.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Http.WebHost.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Mvc.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Optimization.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Razor.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.WebPages.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\WebGrease.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\WebMatrix.Data.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\WebMatrix.WebData.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\EntityFramework.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Newtonsoft.Json.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Net.Http.Formatting.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Helpers.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Http.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Http.WebHost.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Mvc.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Razor.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.WebPages.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\WebMatrix.Data.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\WebMatrix.WebData.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\DotNetOpenAuth.Core.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Web.Http.OData.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Microsoft.Data.Edm.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\Microsoft.Data.OData.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\System.Spatial.xml
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\de\System.Spatial.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\es\System.Spatial.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\fr\System.Spatial.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\it\System.Spatial.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\ja\System.Spatial.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\ko\System.Spatial.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\ru\System.Spatial.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\obj\Debug\Online Shopping Management.csprojResolveAssemblyReference.cache
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\obj\Debug\Online Shopping Management.dll
+C:\Users\MAROB\Dropbox\Asp.net MVC\Online Shopping Management24april\Online Shopping Management\obj\Debug\Online Shopping Management.pdb
